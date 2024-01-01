@@ -1,0 +1,15 @@
+T:
+- Here's my idea to create an app as a part of our project. It shld be practically feasible.
+  We create an app for our clg, i.e for all students, phd scholars and faculties included. 
+  App shld be able to manage;
+  1. Login for fac, studs, phds
+  2. TT management - CR's can edit it if needed
+  3. Chat feature - both priv and grp 
+  4. (Main - suggest ur ideas aswell) In order to draw ppl to use our app, i thought maybe we can use the social relations b/w ppl as the crux.
+      They make profiles, add their interests and stuff. We assign "PULL" count for each of them. At start it's 0.
+      After makin profile, ppl can draft out their own unique puzzle or task based on their interest's using GPT.
+      If a person's PULL gets incremented as he completes the tasks set by other ppl. A leaderboard will show who in clg, has matched interests
+      with most accd to PULL. 
+  5. We can also add a feature for studs to raise doubts to faculties...
+  6. UI shld be neat and clean (Figma shld be used)
+---------------------------------------------------------------------------
