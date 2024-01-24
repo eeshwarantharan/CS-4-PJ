@@ -1,0 +1,4 @@
+-> Asked to note down all sensors that are used in smartphones (Accelerometer, Gyro etc...)
+-> Create a report on various sensors and its Applications
+ -----
+ -> Optionally, was asked to study firebase & flutter
